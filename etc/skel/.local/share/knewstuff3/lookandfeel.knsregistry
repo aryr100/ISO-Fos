@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Arc Darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1826066</homepage>
+  <licence></licence>
+  <version>20220612</version>
+  <rating>50</rating>
+  <downloads>4847</downloads>
+  <installedfile>/home/archstorm/.local/share/plasma/look-and-feel/com.github.varlesh.arc-darker</installedfile>
+  <id>1826066</id>
+  <releasedate>2022-06-12</releasedate>
+  <summary>Arc Darker global theme.&lt;br />
+Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/80/78/1826066/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/80/78/1826066/preview.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTUwMTY5NDQiLCJvIjoiMSIsInMiOiIyNmU0YTA4Y2Q3MGY1YmNiMWNlZDQ2NzE1ZGUxMjlkYWQwODZjMGQwOTc3ZDFkZjc2MTljM2UwMTNhNWE2NTAxNGFlNTQyZjhiYjVjOGYwZDQ3MGYyMmE2NmJkMzI5NGM4YTg4NmE0YzZkNzNhZjgzNGY4NjNhZDYzYTViMmVjOCIsInQiOjE2NTY2MjUzMjgsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.jzS4T5SDRc53U04fdW0WhIZPII6s57GWYhRASLsZbNI/com.github.varlesh.arc-darker.tar.gz</payload>
+  <tags>blue,unix,gplv3,linux,look-and-feel,kde,arc,darker,plasma,original-product,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

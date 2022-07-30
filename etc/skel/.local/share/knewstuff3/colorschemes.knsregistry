@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Arc Light KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1815459</homepage>
+  <licence></licence>
+  <version>20220603</version>
+  <rating>50</rating>
+  <downloads>2907</downloads>
+  <installedfile>/home/archstorm/.local/share/color-schemes/Arc.colors</installedfile>
+  <id>1815459</id>
+  <releasedate>2022-06-03</releasedate>
+  <summary>Ark Light version ColorScheme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/80/78/1815459/screenshot-20220603-093809.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/80/78/1815459/screenshot-20220603-093809.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTQyMzYxOTMiLCJvIjoiMSIsInMiOiJjMTVjNTRkZjg4OWVjNTAxM2QyZTM0NWNmZWQ0M2M5MDI5NWYxN2QzZmJiY2QxN2Y5NjMwMWJjZGU2NTFkNjVkOTMyMjIzMDIwODE2ZWYzNGE4MTUxOTgzNmY1NjdkNmE0Yjg2NjhmYzJmMzA3Nzg0OWU1OWM3ZDc4ZTRlZTljZiIsInQiOjE2NTY2MjUzNDAsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.30MA2Cp8Ey8xlZ5Sc5sxB64dJbXhgivBq-pZmPodXOI/Arc.colors</payload>
+  <tags>blue,linux,kde,light,gplv3,colorscheme,arc,unix,theme,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

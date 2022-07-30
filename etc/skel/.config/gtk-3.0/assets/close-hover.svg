@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-56.25,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.001" >
+<rect x="18" y="0" width="16" height="16"/>
+</g>
+
+<g fill="#d7787d" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-56.25,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M26,1.00002 C22.134,1.00002 19,4.13403 19,8.00002 C19,11.866 22.134,15 26,15 C29.866,15 33,11.866 33,8.00002 C33,4.13403 29.866,1.00002 26,1.00002 M23,4.9219 L23.75,4.9219 C23.758,4.9218 23.7656,4.92155 23.7734,4.9219 C23.9646,4.9303 24.1558,5.01832 24.289,5.15627 L26,6.86721 L27.7344,5.15627 C27.9336,4.98339 28.0694,4.92715 28.25,4.9219 L29,4.9219 L29,5.6719 C29,5.88675 28.9742,6.08488 28.8125,6.2344 L27.1016,7.94533 L28.7891,9.63283 C28.9302,9.77396 29,9.97292 29,10.1719 L29,10.9219 L28.25,10.9219 C28.051,10.9219 27.8521,10.8521 27.7109,10.711 L26,9.00002 L24.2891,10.711 C24.1479,10.8521 23.949,10.9219 23.75,10.9219 L23,10.9219 L23,10.1719 C23,9.97293 23.0698,9.77396 23.2109,9.63283 L24.9219,7.94533 L23.2109,6.2344 C23.0529,6.08842 22.9836,5.88246 23,5.6719 L23,4.9219"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

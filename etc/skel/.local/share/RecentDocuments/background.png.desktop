@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-png
+Name=background.png
+Type=Link
+URL[$e]=file:///usr/share/sddm/themes/ArchLinux/background.png
+X-KDE-LastOpenedWith=org.kde.gwenview
