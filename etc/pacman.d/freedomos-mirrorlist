@@ -1,0 +1,15 @@
+######################################################
+####                                              ####
+###        FreedomOS Repository Mirrorlist       ###
+####                                              ####
+######################################################
+#### Entry in file /etc/pacman.conf:
+###     [FreedomOS]
+###     SigLevel = PackageRequired
+###     Include = /etc/pacman.d/freedomosmirrorlist
+######################################################
+
+## Github
+SigLevel = Optional PackageOptional
+Server = https://raw.githubusercontent.com/freedomos/$repo/main/$arch
+
