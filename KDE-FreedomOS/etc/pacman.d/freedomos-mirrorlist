@@ -10,6 +10,5 @@
 ######################################################
 
 ## Github
-SigLevel = Optional PackageOptional
-Server = https://raw.githubusercontent.com/freedomos/$repo/main/$arch
+Server = https://raw.githubusercontent.com/freedomos/FreedomOS-Repo/main/$repo/$arch
 
