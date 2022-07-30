@@ -1,9 +1,0 @@
- 
-download kvantum kvantum-theme-arc  done
-
-auto login  done
-
-nopasswd for calamares  done
-
-
-check installer works
