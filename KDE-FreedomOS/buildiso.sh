@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Revision: 2022.06.25
+# Revision: V1.0
 # (GNU/General Public License version 3.0)
-# by eznix (https://sourceforge.net/projects/ezarch/)
+# Created by eznix (https://sourceforge.net/projects/ezarch/)
+# Maintained by Frazer Grant
 
 # ----------------------------------------
 # Define Variables
@@ -136,7 +137,6 @@ cp -r opt ./FreedomOS/airootfs/
 cp -r boot ./FreedomOS/airootfs/
 rm ./FreedomOS/grub/grub.cfg
 mv ./FreedomOS/grub/ezgrubcfg ./FreedomOS/grub/grub.cfg
-ln -sf /usr/share/ezarcher ./FreedomOS/airootfs/etc/skel/ezarcher
 }
 
 # Set hostname
@@ -214,6 +214,8 @@ runmkarchiso () {
 mkarchiso -v -w ./work -o ./out ./FreedomOS
 }
 
+
+
 # ----------------------------------------
 # Run Functions
 # ----------------------------------------
@@ -224,7 +226,7 @@ prepreqs
 cleanup
 cpFreedomOS
 addnmlinks
-cpezrepo
+#cpezrepo
 #nalogin
 rmunitsd
 cpmyfiles

@@ -1,0 +1,14 @@
+[ActionPlugins][0]
+MiddleButton;NoModifier=org.kde.paste
+RightButton;NoModifier=org.kde.contextmenu
+wheel:Vertical;NoModifier=org.kde.switchdesktop
+
+[AppletGlobals][org.kde.plasma.comic]
+lastUpdate=2022,7,31,21,52,44.871
+
+[Containments][2]
+activityId=
+formfactor=4
+lastScreen=-1
+location=0
+wallpaperplugin=org.kde.image

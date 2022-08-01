@@ -10,11 +10,11 @@ Places Icons Static Size=32
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Virtual1 XPosition 1679x934=519
-Virtual1 YPosition 1679x934=228
 
 [Recent Files]
-File1[$e]=/usr/share/sddm/themes/ArchLinux/background.png
-Name1[$e]=background.png
+File1[$e]=/usr/share/wallpapers/freedomos/contents/screenshot.jpg
+File2[$e]=$HOME/Desktop/wallpaper.jpg
+Name1[$e]=screenshot.jpg
+Name2[$e]=wallpaper.jpg

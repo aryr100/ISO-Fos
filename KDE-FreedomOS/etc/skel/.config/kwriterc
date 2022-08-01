@@ -6,6 +6,7 @@ ShowStatusBar=true
 [KTextEditor Document]
 Allow End of Line Detection=true
 Auto Detect Indent=true
+Auto Reload If State Is In Version Control=true
 Auto Save=false
 Auto Save Interval=0
 Auto Save On Focus Out=false
@@ -107,12 +108,19 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
+DisplayPort-1 Window-Maximized 2560x1440=true
+DisplayPort-1 XPosition 2560x1440=960
+DisplayPort-1 YPosition 2560x1440=472
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAACgAAAAUbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Virtual1 XPosition 2560x1322=960
-Virtual1 YPosition 2560x1322=422
 
 [Recent Files]
-File1[$e]=$HOME/.config/Kvantum/kvantum.kvconfig
-Name1[$e]=kvantum.kvconfig
+File1[$e]=/usr/share/wallpapers/FreedomOS/metadata.desktop
+File2[$e]=$HOME/.local/share/dolphin/view_properties/global/.directory
+File3[$e]=$HOME/.local/share/dolphin/dolphinstaterc
+File4[$e]=$HOME/.local/share/user-places.xbel
+Name1[$e]=metadata.desktop
+Name2[$e]=.directory
+Name3[$e]=dolphinstaterc
+Name4[$e]=user-places.xbel
