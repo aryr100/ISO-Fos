@@ -80,6 +80,9 @@ Include = /etc/pacman.d/freedomos-mirrorlist
 SigLevel = Optional DatabaseOptional
 Include = /etc/pacman.d/freedomos-mirrorlist
 
+[FreedomOS-Testing]
+SigLevel = Optional DatabaseOptional
+Include = /etc/pacman.d/freedomos-mirrorlist
 
 #[testing]
 #Include = /etc/pacman.d/mirrorlist

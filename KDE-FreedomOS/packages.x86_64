@@ -350,7 +350,6 @@ plasma
 print-manager
 qbittorrent
 sweeper
-plasma-wayland-session
 
 # Display Manager
 sddm
@@ -386,7 +385,7 @@ solid
 yaml-cpp
 
 # Calamares
-calamares
+
 ckbcomp
 mkinitcpio-openswap
 
@@ -409,3 +408,6 @@ libpamac-aur
 pamac-aur
 pamac-tray-icon-plasma
 openrgb
+freedomos-calamares
+freedomos-calamares-config
+freedomos-kde-profile

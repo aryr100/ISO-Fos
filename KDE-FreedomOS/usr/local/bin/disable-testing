@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Enable FreedomOS Testing Repo
+#Author: Frazer Grant
+sudo rm -rf /etc/pacman.conf
+sudo cp /etc/pacmanbk /etc/pacman.conf
+
+sudo pacman -Syy
+
+
+
