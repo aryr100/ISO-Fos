@@ -330,7 +330,6 @@ ark
 bluedevil
 bluez-qt
 breeze-icons
-discover
 dolphin
 geany
 guvcview
@@ -344,7 +343,6 @@ kwrite
 meld
 neofetch
 networkmanager-qt
-okular
 packagekit-qt5
 papirus-icon-theme
 pavucontrol-qt
@@ -393,6 +391,8 @@ ckbcomp
 mkinitcpio-openswap
 
 # Custom
+libwnck3
+appmenu-gtk-module
 yay
 kvantum
 kvantum-theme-arc
@@ -403,3 +403,9 @@ grub-customizer
 lsb-release
 #pamac-aur
 grub
+zenity
+freedomos-welcome
+libpamac-aur
+pamac-aur
+pamac-tray-icon-plasma
+openrgb
