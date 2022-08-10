@@ -1,0 +1,9 @@
+NAME=FreedomOS
+ID=FreedomOS
+ID_LIKE=FreedomOS
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
+HOME_URL="https://freedomos.github.io/"
+SUPPORT_URL="https://freedomos.github.io/"
+BUG_REPORT_URL="https://freedomos.github.io/"
+LOGO=FreedomOS.png

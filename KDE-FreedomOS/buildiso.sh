@@ -36,15 +36,15 @@ MYHOSTNM="FreedomOS-Live"
 # ----------------------------------------
 
 # Test for root user
-rootuser () {
-  if [[ "$EUID" = 0 ]]; then
-    continue
-  else
-    echo "Please Run As Root"
-    sleep 2
-    exit
-  fi
-}
+#rootuser () {
+#  if [[ "$EUID" = 0 ]]; then
+#    continue
+#  else
+#    echo "Please Run As Root"
+#    sleep 2
+#    exit
+#  fi
+#}
 
 # Display line error
 handlerror () {
@@ -58,6 +58,7 @@ cleanup () {
 [[ -d ./FreedomOS ]] && rm -r ./FreedomOS
 [[ -d ./work ]] && rm -r ./work
 [[ -d ./out ]] && mv ./out ../
+#mkdir work
 sleep 2
 }
 
@@ -205,7 +206,7 @@ EndSection" > ./FreedomOS/airootfs/etc/X11/xorg.conf.d/00-keyboard.conf
 
 # Fix 40-locale-gen.hook and create locale.conf
 crtlocalec () {
-sed -i "s/en_US/"${LCLST}"/g" ./FreedomOS/airootfs/etc/pacman.d/hooks/40-locale-gen.hook
+sed -i "s/en_GB/"${LCLST}"/g" ./FreedomOS/airootfs/etc/pacman.d/hooks/40-locale-gen.hook
 echo "LANG="${LCLST}".UTF-8" > ./FreedomOS/airootfs/etc/locale.conf
 }
 
@@ -220,14 +221,12 @@ mkarchiso -v -w ./work -o ./out ./FreedomOS
 # Run Functions
 # ----------------------------------------
 
-rootuser
 handlerror
 prepreqs
 cleanup
 cpFreedomOS
 addnmlinks
-#cpezrepo
-#nalogin
+
 rmunitsd
 cpmyfiles
 sethostname
@@ -239,7 +238,6 @@ setkeylayout
 crtkeyboard
 crtlocalec
 runmkarchiso
-#rmezrepo
 
 
 # Disclaimer:
@@ -256,4 +254,3 @@ runmkarchiso
 # POSSIBILITY OF SUCH DAMAGE.
 #
 # END
-#

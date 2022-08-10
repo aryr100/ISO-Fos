@@ -2,21 +2,16 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
 b43-fwcutter
 base
 bind
 brltty
 broadcom-wl-dkms
 btrfs-progs
-clonezilla
-cryptsetup
 darkhttpd
 ddrescue
 dhclient
 dhcpcd
-diffutils
 dmidecode
 dmraid
 dnsmasq
@@ -35,9 +30,7 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
-
 hdparm
-hyperv
 intel-ucode
 ipw2100-fw
 ipw2200-fw
@@ -45,7 +38,6 @@ irssi
 iw
 iwd
 jfsutils
-kitty-terminfo
 less
 libfido2
 libusb-compat
@@ -80,18 +72,10 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
-openconnect
-openssh
-openvpn
-partclone
 parted
-partimage
 pcsclite
 ppp
-pptpclient
 pv
-qemu-guest-agent
 refind
 reflector
 reiserfsprogs
@@ -141,7 +125,6 @@ cmake
 cryfs
 devtools
 dkms
-dvd+rw-tools
 efitools
 encfs
 fuse3
@@ -167,7 +150,6 @@ linux-headers
 logrotate
 
 os-prober
-p7zip
 packagekit
 pacman-contrib
 pacutils
@@ -188,7 +170,6 @@ tlp
 udftools
 udisks2
 unace
-unrar
 unzip
 upower
 xdg-user-dirs
@@ -209,53 +190,21 @@ alsa-lib
 alsa-plugins
 alsa-firmware
 alsa-utils
-audacious
-audacious-plugins
-cdrdao
-dvdauthor
 faac
 faad2
 ffmpeg
 ffmpegthumbnailer
 flac
-frei0r-plugins
-gstreamer
-gst-libav
-gst-plugins-base
-gst-plugins-good
-gst-plugins-bad
-gst-plugins-ugly
-gstreamer-vaapi
-imagemagick
-lame
-libdvdcss
 libopenraw
 mencoder
-mjpegtools
-mpv
-poppler-glib
-# Pipewire - comment pulseaudio packages if using pipewire
-# pipewire
-# pipewire-alsa
-# pipewire-docs
-# pipewire-jack
-# pipewire-media-session
-# pipewire-pulse
-# alsa-card-profiles
-# gst-plugin-pipewire
-# Pulseaudio - comment pipewire packages if using pulseaudio
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 pulseaudio-equalizer
 pulseaudio-jack
-simplescreenrecorder
-sox
-transcode
-smplayer
 x265
 x264
-xvidcore
+
 
 # XORG
 mesa
@@ -334,14 +283,12 @@ dolphin
 geany
 guvcview
 gwenview
-k3b
 kcalc
 kinit
 konsole
 kwin
 kwrite
 meld
-neofetch
 networkmanager-qt
 packagekit-qt5
 papirus-icon-theme
@@ -394,13 +341,12 @@ libwnck3
 appmenu-gtk-module
 yay
 kvantum
-kvantum-theme-arc
 powerline-shell
 alsi
 kitty
 grub-customizer
 lsb-release
-#pamac-aur
+pamac-aur
 grub
 zenity
 freedomos-welcome
@@ -411,3 +357,9 @@ openrgb
 freedomos-calamares
 freedomos-calamares-config
 freedomos-kde-profile
+freedomos-grub-theme
+freedomos-neofetch
+freedomos-tools
+arc-kde-git
+libreoffice-fresh
+

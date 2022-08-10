@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="FreedomOS-kde-Dev"
-iso_label="FreedomOS_DEV$(date +%Y%m)"
-iso_publisher="FreedomOS <https://github.com/frazzlesgrant1994/FreedomOS>"
+iso_name="FreedomOS-kde"
+iso_label="FreedomOS-KDE$(date +%Y%m)"
+iso_publisher="FreedomOS <https://freedomos.co.uk>"
 iso_application="FreedomOS_DVD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
