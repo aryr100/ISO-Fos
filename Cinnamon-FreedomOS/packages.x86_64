@@ -35,7 +35,7 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
-
+grub
 hdparm
 hyperv
 intel-ucode
@@ -165,7 +165,7 @@ libisofs
 libisoburn
 linux-headers
 logrotate
-
+lsb-release
 os-prober
 p7zip
 packagekit
@@ -256,6 +256,7 @@ smplayer
 x265
 x264
 xvidcore
+yt-dlp
 
 # XORG
 mesa
@@ -322,46 +323,35 @@ python-reportlab
 simple-scan
 system-config-printer
 
-
-# Cinnamon
+# Xfce
 accountsservice
-adwaita-icon-theme
 adapta-gtk-theme
 aisleriot
 arc-gtk-theme
 arc-icon-theme
 asunder
 blueman
-brasero
-cinnamon
-cinnamon-translations
+catfish
 dconf-editor
 epdfview
-file-roller
+galculator
 geany
 gnome-firmware
 gnome-packagekit
-gnome-terminal
-gsound
 gtk-engine-murrine
 guvcview
 meld
-nemo
-nemo-fileroller
-nemo-share
-neofetch
 papirus-icon-theme
 pavucontrol
 polkit-gnome
-tldr
-tmux
 transmission-gtk
-viewnior
-xed
+xarchiver
+xfburn
+xfce4
+xfce4-goodies
 
 # Display Manager
 sddm
-sddm-kcm
 
 # Calamares dependencies (not listed elsewhere)
 boost
@@ -397,24 +387,14 @@ yaml-cpp
 ckbcomp
 mkinitcpio-openswap
 
-# Custom
-libwnck3
-appmenu-gtk-module
+# AUR
 yay
-kvantum
-powerline-shell
-alsi
-kitty
-grub-customizer
-lsb-release
-pamac-aur
-grub
-zenity
-freedomos-welcome
-libpamac-aur
-pamac-aur
-openrgb
 freedomos-calamares
 freedomos-calamares-config
+freedomos-kde-profile
+freedomos-grub-theme
+freedomos-neofetch
+freedomos-tools
+arc-kde-git
 libreoffice-fresh
-
+freedomos-plymouth

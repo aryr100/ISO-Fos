@@ -1,9 +1,0 @@
-NAME=FreedomOS
-ID=FreedomOS
-ID_LIKE=FreedomOS
-BUILD_ID=rolling
-ANSI_COLOR="0;36"
-HOME_URL="https://freedomos.co.uk/"
-SUPPORT_URL="https://freedomos-docs.readthedocs.io/en/latest//"
-BUG_REPORT_URL="https://github.com/freedomos/"
-LOGO=/usr/share/icons/hicolor/scalable/apps/freedomos-welcome

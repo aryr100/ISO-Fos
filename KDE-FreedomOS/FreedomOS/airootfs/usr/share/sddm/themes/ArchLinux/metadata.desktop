@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=ArchLinux
+Description=Arch SDDM theme 
+Author=Frazer Grant
+Copyright=(c) 2022, Frazer Grant
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/frazzlesgrant1994/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=ArchLinuxTheme
+Theme-API=2.0

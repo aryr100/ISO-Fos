@@ -65,6 +65,7 @@ sleep 2
 # Requirements and preparation
 prepreqs () {
 pacman -S --noconfirm archlinux-keyring
+pacman -S --noconfirm freedomos-keyring
 pacman -S --needed --noconfirm archiso mkinitcpio-archiso
 }
 

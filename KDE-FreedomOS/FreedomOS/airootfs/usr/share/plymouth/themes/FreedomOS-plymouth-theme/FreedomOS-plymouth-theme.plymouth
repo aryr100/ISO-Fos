@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=FreedomOS-plymouth-theme
+Description=FreedomOS-plymouth-theme by - Frazer Grant J
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/FreedomOS-plymouth-theme
+ScriptFile=/usr/share/plymouth/themes/FreedomOS-plymouth-theme/FreedomOS-plymouth-theme.script

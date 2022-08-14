@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="FreedomOS-Cinnamon"
+iso_name="FreedomOS-Deepin"
 iso_label="FreedomOS-$(date +%Y%m)-Rev2"
 iso_publisher="FreedomOS <https://freedomos.co.uk>"
 iso_application="FreedomOS_DVD"
